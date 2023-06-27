@@ -1,0 +1,4 @@
+Assignment 1
+3. Fetch the year from the dropdown and validate the year is in Ascending Order.
+Sol - The years are in order, but they are decreasing as we move down the options and hence
+      they are in descending order.
