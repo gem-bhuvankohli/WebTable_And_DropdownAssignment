@@ -1,4 +1,4 @@
-package org.example;
+package example;
 //Package Imports
 
 import org.openqa.selenium.By;
